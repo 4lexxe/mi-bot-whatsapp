@@ -3,6 +3,7 @@ const { Client, LocalAuth, MessageMedia } = pkg;
 import qrcode from 'qrcode-terminal';
 import fs from 'fs';
 import path from 'path';
+import { chromium } from 'playwright';
 import { shouldBotRespond, setBotLid } from './triggerFilter.js';
 import { messageBuffer } from './messageBuffer.js';
 import { processSystemActions } from '../system/actionHandler.js';
@@ -76,6 +77,7 @@ function createClientInstance(onMessageHandler) {
       dataPath: './.wwebjs_auth'
     }),
     puppeteer: {
+      executablePath: chromium.executablePath(),
       headless: true,
       protocolTimeout: 300000,
       args: [
