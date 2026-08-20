@@ -8,6 +8,9 @@ COPY package*.json ./
 # Instalar dependencias del proyecto
 RUN npm ci --only=production
 
+# Asegurar la instalación binaria de Chromium coincidente con Playwright
+RUN npx playwright install chromium
+
 # Copiar todo el código fuente
 COPY . .
 
