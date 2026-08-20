@@ -1,0 +1,10 @@
+=== INFORMACIÓN GENERAL DE LA COMUNIDAD DEVS PROJECT ===
+
+1. **¿Qué es Devs Project?**
+   - Es una comunidad e iniciativa tecnológica sin fines de lucro, organizada y gestionada por estudiantes avanzados de informática de la Facultad de Ingeniería de la UNJu.
+   - Su objetivo es acortar la brecha entre la teoría académica y la práctica en la industria del software.
+
+2. **Canales Oficiales y Redes:**
+   - WhatsApp Grupo Oficial de Difusión: Enlace en la biografía del Instagram.
+   - Instagram de la Comunidad: @devsproject_unju (Talleres de programación, hacks estudiantiles y memes de informática).
+   - Servidor de Discord: https://discord.gg/devs-project-fi (Salas de estudio para resolver laboratorios de programación y charlar de tecnología).

@@ -1,0 +1,21 @@
+{
+  "name": "whatsapp-gemini-web-bot",
+  "version": "2.0.0",
+  "description": "Bot de WhatsApp conectado a Gemini Web via Scraping (0 APIs), respuesta por mención/reply, especializado en FI UNJu y Programación con generación de imágenes",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node --max-old-space-size=256 src/index.js",
+    "dev": "node --max-old-space-size=256 --watch src/index.js",
+    "clean": "powershell -Command \"Get-Process -Name 'chrome', 'chromium' -ErrorAction SilentlyContinue | Stop-Process -Force -ErrorAction SilentlyContinue; Remove-Item -Force .gemini_chrome_data/SingletonLock, .grok_chrome_data/SingletonLock -ErrorAction SilentlyContinue; Write-Host 'Limpieza de procesos completada.'\""
+  },
+  "keywords": ["whatsapp", "gemini-web", "scraping", "playwright", "fi-unju", "bot"],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "playwright": "^1.49.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.26.0"
+  }
+}

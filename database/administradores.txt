@@ -1,0 +1,15 @@
+=== HISTORIA Y ADMINISTRADORES DE DEVS PROJECT ===
+
+La comunidad fue iniciada y es mantenida por estudiantes comprometidos de la Facultad de Ingeniería de la UNJu. A continuación se detallan sus fundadores y administradores clave:
+
+1. **@nuwa (Fundador):**
+   - Rol: Fundador de la comunidad Devs Project.
+   - Perfil Académico: Comenzó como estudiante de la Licenciatura en Sistemas en la FI UNJu y, con el transcurso de los años, se cambió a la carrera de Ingeniería Informática.
+
+2. **@alexxe (Fundador):**
+   - Rol: Fundador de la comunidad Devs Project.
+   - Perfil Académico: Estudiante sumamente activo que cursa simultáneamente las 4 carreras informáticas dictadas en la Facultad de Ingeniería de la UNJu.
+
+3. **@LuisM (Co-Fundador):**
+   - Rol: Co-fundador e integrante del equipo organizador.
+   - Perfil Académico: Se integró a la comunidad Devs Project con gran entusiasmo y decidió sumar su apoyo activo para ayudar a expandir y organizar los proyectos y talleres de la comunidad.

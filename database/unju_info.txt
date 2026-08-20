@@ -1,0 +1,13 @@
+=== INFORMACIÓN ACADÉMICA FI UNJU (FACULTAD DE INGENIERÍA) ===
+
+1. **Inscripción a Cursadas y Exámenes (SIU Guaraní):**
+   - Sistema de Autogestión SIU Guaraní FI UNJu: http://guarani.fi.unju.edu.ar/autogestion/
+   - Recuerda: Las inscripciones abren según el calendario académico anual de la facultad. Siempre debes verificar tu condición (Regular o Libre) antes de anotarte.
+
+2. **Fechas del Calendario Académico (Exámenes Turno Ordinario):**
+   - Inscripciones habituales: Fines de agosto y principios de septiembre.
+   - Período de examen de los llamados: Se distribuyen en 2 a 3 semanas.
+   - Los exámenes presenciales para alumnos de APU de primer año suelen realizarse en el Aula 11 (planta baja del edificio central de la FI UNJu) o laboratorios 1 y 2.
+
+3. **Laboratorios de Informática:**
+   - La Facultad cuenta con el Laboratorio 1 (con computadoras para programación en C y Linux) y Laboratorio 2 (para Bases de Datos y redes), ubicados en el primer piso del edificio principal.

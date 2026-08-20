@@ -1,0 +1,4 @@
+2026/08/13-09:21:42.592 3fd8 Creating DB C:\Users\Alexxe\Documents\WHATSAPPSCRAPPING\.wwebjs_auth\session-gemini-whatsapp-bot\Default\Sync Data\LevelDB since it was missing.
+2026/08/13-09:21:42.608 3fd8 Reusing MANIFEST C:\Users\Alexxe\Documents\WHATSAPPSCRAPPING\.wwebjs_auth\session-gemini-whatsapp-bot\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/08/13-09:21:42.608 3fd8 Recovering log #3
+2026/08/13-09:21:42.609 3fd8 Reusing old log C:\Users\Alexxe\Documents\WHATSAPPSCRAPPING\.wwebjs_auth\session-gemini-whatsapp-bot\Default\Sync Data\LevelDB/000003.log 

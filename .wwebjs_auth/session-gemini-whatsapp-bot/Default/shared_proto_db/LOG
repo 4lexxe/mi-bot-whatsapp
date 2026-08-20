@@ -1,0 +1,4 @@
+2026/08/13-09:21:42.632 41fc Creating DB C:\Users\Alexxe\Documents\WHATSAPPSCRAPPING\.wwebjs_auth\session-gemini-whatsapp-bot\Default\shared_proto_db since it was missing.
+2026/08/13-09:21:42.641 41fc Reusing MANIFEST C:\Users\Alexxe\Documents\WHATSAPPSCRAPPING\.wwebjs_auth\session-gemini-whatsapp-bot\Default\shared_proto_db/MANIFEST-000001
+2026/08/13-09:21:42.642 41fc Recovering log #3
+2026/08/13-09:21:42.643 41fc Reusing old log C:\Users\Alexxe\Documents\WHATSAPPSCRAPPING\.wwebjs_auth\session-gemini-whatsapp-bot\Default\shared_proto_db/000003.log 

@@ -1,0 +1,15 @@
+2026/08/13-09:21:42.680 c20 Creating DB C:\Users\Alexxe\Documents\WHATSAPPSCRAPPING\.wwebjs_auth\session-gemini-whatsapp-bot\Default\Local Storage\leveldb since it was missing.
+2026/08/13-09:21:42.706 c20 Reusing MANIFEST C:\Users\Alexxe\Documents\WHATSAPPSCRAPPING\.wwebjs_auth\session-gemini-whatsapp-bot\Default\Local Storage\leveldb/MANIFEST-000001
+2026/08/13-09:21:42.709 c20 Recovering log #23
+2026/08/13-09:21:42.710 c20 Level-0 table #3: started
+2026/08/13-09:21:42.721 c20 Level-0 table #3: 13741 bytes OK
+2026/08/13-09:21:42.729 c20 Delete type=2 #5
+2026/08/13-09:21:42.729 c20 Delete type=2 #21
+2026/08/13-09:21:42.729 c20 Delete type=0 #23
+2026/08/13-09:21:42.729 c20 Delete type=2 #24
+2026/08/13-11:34:48.908 c20 Level-0 table #26: started
+2026/08/13-11:34:48.917 c20 Level-0 table #26: 17557 bytes OK
+2026/08/13-11:34:48.918 c20 Delete type=0 #24
+2026/08/13-17:35:08.689 c20 Level-0 table #28: started
+2026/08/13-17:35:08.695 c20 Level-0 table #28: 13100 bytes OK
+2026/08/13-17:35:08.699 c20 Delete type=0 #25

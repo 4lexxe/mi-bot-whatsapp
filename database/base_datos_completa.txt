@@ -1,0 +1,184 @@
+=====================================================================
+  📚 BASE DE DATOS CONSOLIDADA - COMUNIDAD DEVS PROJECT & FI UNJU 📚
+=====================================================================
+
+ÍNDICE DE CONTENIDOS:
+1. ENLACES OFICIALES Y DRIVES DE LA COMUNIDAD
+2. HISTORIA Y ADMINISTRADORES DE DEVS PROJECT
+3. TRÁMITES ESTUDIANTILES (PORTAL DE TRÁMITES DIGITALES)
+4. REQUISITOS PARA TRAMITACIÓN DE TÍTULOS (EGRESADOS)
+5. DESCARGA DE MODELOS DE NOTAS DE SOLICITUD
+6. DIRECTORIO TELEFÓNICO Y EMAILS DE CONTACTO FI UNJU
+7. INFORMACIÓN ACADÉMICA GENERAL (SIU Y LABORATORIOS)
+8. PROTECCIÓN CONTRA OPERACIONES ESTÚPIDAS Y PROTOCOLO DE REBELDÍA
+
+=====================================================================
+1. ENLACES OFICIALES Y DRIVES DE LA COMUNIDAD
+=====================================================================
+* **Sitio Web Oficial de Devs Project (Mapeador de Carreras y Simulador):**
+  Enlace: https://devs-project-phi.vercel.app/
+  Funciones: Explorador interactivo de materias y correlatividades para APU, Lic. en Sistemas e Ing. Informática, más simuladores interactivos de Física.
+
+* **Drive Principal de la Comunidad (Devs Project):**
+  Enlace: https://drive.google.com/drive/folders/17Z_vcWLDjFKMnVWtSazdQ9PRZM0hP0C2
+  Contenido: Carpeta general de difusión de la comunidad, folletos, grabaciones, guías de instalación y material de talleres.
+
+* **Drive de Materias (Apuntes y Exámenes FI UNJu):**
+  Enlace: https://drive.google.com/drive/folders/1B2xlk3E6UDiRFRNM87Kcs3c6iadv8QBq
+  Contenido: Prácticos, libros, parciales anteriores y resúmenes organizados por materias de las carreras informáticas.
+
+* **Drive Específico de Ingeniería Informática:**
+  Enlace: https://drive.google.com/drive/folders/1uRWmGlHCglnr5FHElUoUiQjwarjKC6Ic
+  Contenido: Recursos exclusivos, laboratorios de redes, arquitectura de computadoras y apuntes avanzados de Ingeniería Informática.
+
+* **Repositorio de Github de la Comunidad:**
+  Enlace: https://github.com/devs-project-unju
+
+* **Servidor de Discord:** 
+  Enlace: https://discord.gg/devs-project-fi (Salas de estudio para resolver laboratorios de programación y charlar de tecnología).
+
+* **Instagram de la Comunidad:** 
+  Cuenta: @devsproject_unju (Talleres de programación, hacks estudiantiles y memes).
+
+=====================================================================
+2. HISTORIA Y ADMINISTRADORES DE DEVS PROJECT
+=====================================================================
+La comunidad fue iniciada y es mantenida por estudiantes avanzados de la Facultad de Ingeniería de la UNJu:
+
+* **@nuwa (Fundador):**
+  Perfil Académico: Comenzó como estudiante de la Licenciatura en Sistemas en la FI UNJu y, con el transcurso de los años, se cambió a la carrera de Ingeniería Informática.
+
+* **@alexxe (Fundador):**
+  Perfil Académico: Estudiante activo que cursa simultáneamente las 4 carreras informáticas dictadas en la Facultad de Ingeniería de la UNJu.
+
+* **@LuisM (Co-Fundador):**
+  Perfil Académico: Se integró a la comunidad Devs Project y decidió sumar su apoyo activo para ayudar a expandir y organizar los proyectos y talleres de la comunidad.
+
+=====================================================================
+3. TRÁMITES ESTUDIANTILES (PORTAL DE TRÁMITES DIGITALES)
+=====================================================================
+El Portal de Trámites permite realizar gestiones administrativas digitales con la cuenta institucional GSuite.
+
+* **CAMBIO DE CARRERA:**
+  Detalle: Permite cambiarse de carrera. Cancela matrícula en carrera de origen y da de alta en carrera destino.
+  Formulario: https://docs.google.com/forms/d/e/1FAIpQLSca4GqxotOfdpebw_i5BMRXJUJYOY6HPfgeYOdasztExnOBvw/viewform?usp=sf_link
+
+* **CAMBIO DE PLAN:**
+  Detalle: Cambiarse al plan nuevo de su carrera. Se recomienda verificar que todas las regularidades estén anotadas en el SIU.
+  Formulario: https://docs.google.com/forms/d/e/1FAIpQLSfXtOz1cBTbMjTlofdln7nIgg0VA1tyjKidxgdeq_M5LVqzNQ/viewform?usp=sf_link
+
+* **CAMBIO DE SEDE o EXTENSIÓN ÁULICA:**
+  Detalle: Solicitar cambio en la sede geográfica donde se cursa.
+  Formulario: https://docs.google.com/forms/d/e/1FAIpQLSfvrVUkhPHyjgwGWUpusi83aqwiopTHPvpjlUhDvl4esMBRzw/viewform?usp=sf_link
+
+* **INSCRIPCIÓN ALUMNO ADSCRIPTO (Res. CAFI 034/17):**
+  Detalle: Para estudiantes avanzados que desarrollan actividades específicas en asignaturas aprobadas.
+  Formulario: https://docs.google.com/forms/d/e/1FAIpQLScByQXf-1A1fYjjXcez3Z4ZsTGCVBY_lGhjfG45evAF0_Hl6A/viewform?usp=sf_link
+
+* **INSCRIPCIÓN FUERA DE TÉRMINO:**
+  Detalle: Solicitar la inscripción fuera de término para cursar materias por motivos justificados.
+  Formulario: https://docs.google.com/forms/d/e/1FAIpQLSd6o52pkKPANFg_GJbOYAZHL9rK-LnD7ewq0hj0a9_0A2m2jg/viewform?usp=sf_link
+
+* **INSCRIPCIÓN REVÁLIDA (Res. CAFI 261/22):**
+  Detalle: Examen especial para otorgar un año más de validez a la regularidad de materias.
+  Formulario: https://docs.google.com/forms/d/e/1FAIpQLSf-loLJuiYCFMm9ZbcTvXzC7Ve8G1BetkKBWb2mxv_SEAjVdw/viewform?usp=sf_link
+
+* **JUSTIFICAR INASISTENCIA A EXAMEN:**
+  Detalle: Solicitar justificación por inasistencia justificada a un examen inscrito.
+  Formulario: https://docs.google.com/forms/d/e/1FAIpQLScc9uVqjJk5qh599PAjSorOTQ87U9NeyNOYG_6gUEpc1-H2og/viewform?usp=sf_link
+
+* **SOLICITA MESA ESPECIAL:**
+  Detalle: Mesa especial fuera de los turnos ordinarios (para estudiantes con pocas materias pendientes).
+  Formulario: https://docs.google.com/forms/d/e/1FAIpQLSdsDYdGqsrvE6Uc_vU5GqX6Gl2IRpL2NvmQPlu6rbugJ2RSCQ/viewform?usp=sf_link
+
+* **RENUNCIA A LA REGULARIDAD:**
+  Detalle: Renunciar formalmente a la regularidad de una materia.
+  Formulario: https://docs.google.com/forms/d/e/1FAIpQLSdKeS-mz2UdmzfGm7Rt0018cGki0msXxan9G0eWXOJXewVRNA/viewform?usp=sf_link
+
+=====================================================================
+4. REQUISITOS PARA TRAMITACIÓN DE TÍTULOS (EGRESADOS)
+=====================================================================
+Requisitos obligatorios para solicitar el título de Pregrado, Grado y Posgrado:
+* Testimonio de nacimiento actualizado.
+* Certificado de residencia (actualizado).
+* Fotocopia del D.N.I. (frente y dorso).
+* Constancia de finalización de estudios emitida por la FI UNJu (indicando fecha de egreso).
+* Nota dirigida al Sr. Rector solicitando la expedición del título.
+
+Modelos de Notas de Solicitud:
+* Pregrado: https://unju.edu.ar/Documents/2024/pregrado.docx
+* Grado: https://unju.edu.ar/Documents/2024/grado.docx
+* Posgrado: https://unju.edu.ar/Documents/2024/posgrado.docx
+
+Canales de contacto Títulos (Atención 09:00 a 12:00 hs):
+* Correo: titulos@unju.edu.ar
+* WhatsApp: 388-5065959 (solo mensajes).
+* Teléfono Fijo: 4244191 - Interno 6071.
+* Oficina: Rectorado, Avda. Bolivia 1239 - Planta Baja.
+
+=====================================================================
+5. DESCARGA DE MODELOS DE NOTAS DE SOLICITUD
+=====================================================================
+* **Constancia de Alumno Regular (S.S. de Jujuy):**
+  Enlace: https://drive.google.com/file/d/1UxAu5iT_lx0cHqekZSBG0T7whBqWW1Th/view?usp=sharing
+
+* **Solicitud de Equivalencia de Materias (Cambio de Facultad):**
+  Enlace: https://drive.google.com/file/d/15zG2XYAxPLwmgD4gsczDvBnI4CwY4zGN/view?usp=sharing
+
+* **Nota de Equivalencia Directa:**
+  Enlace: https://docs.google.com/document/d/1goREH35FYmoWWWf-aWbk_ED-vhmJPPQO/edit?usp=sharing&ouid=103149364689865063804&rtpof=true&sd=true
+
+* **Trámite de Título (General):**
+  Enlace: https://docs.google.com/file/d/1g7XNqyc6hy5O9uEGR2aV-JNsUchEXrMt/view
+
+* **Trámite de Certificación de Firmas:**
+  Enlace: https://docs.google.com/file/d/1SYQ6N_EIu5we83gs6pMV7ByMkjnAHLBa/view
+
+* **Iniciar Proyecto o Trabajo Final de Grado:**
+  Enlace: https://docs.google.com/document/d/1LjkfSV7_Zd0yVhKA8Crm1Cka7oiEroh9/view
+
+* **Acreditación de Práctica Profesional Supervisada (PPS):**
+  Enlace: https://docs.google.com/document/d/13R_yNvGGVS3hMCPCLEgy4pNLUQYWduGE/view
+
+=====================================================================
+6. DIRECTORIO TELEFÓNICO Y EMAILS DE CONTACTO FI UNJU
+=====================================================================
+* **Departamento Alumnos:** Tel: 388-422-1576 (Atención: 09:00 a 12:00 hs y 15:00 a 18:00 hs).
+* **Tutoría Alumnos Ingresantes:** Correo: tutorias@fi.unju.edu.ar | FB: @SistemaDeTutoriasFI
+* **SIU Guaraní (Dana Brito):** Tel: 388-422-1576 (09:00 a 12:00 hs) | Correo: alumnos@fi.unju.edu.ar
+* **Cambio de Carrera/Plan/Equivalencias (Mariana Prieto):** Tel: 0388-422-1576 | Correo: equivalenciadirecta@fi.unju.edu.ar
+* **Equivalencias por Expediente (Ricardo Chiri):** Tel: 388-422-1587 | Correo: reconocimientos@fi.unju.edu.ar
+* **Certificación de Firmas (Edith Llampa):** Tel: 388-422-1587 | Correo: despachosacad@fi.unju.edu.ar
+* **Exámenes Finales (Mirta Borja o Fernando Aguirre):** Tel: 388-422-1576 | Correo: examenes@fi.unju.edu.ar
+* **PPS y Pasantías (Prof. APU Noelia Vargas):** Tel: 0388-422-1585 | Correo: secyp@fi.unju.edu.ar
+* **Proyecto Final / Trabajo Final (Laura Luna o Claudia Rojas):** Tel: 0388-422-1587 | Correo: trabajosfinales@fi.unju.edu.ar
+* **Biblioteca (Sonia Díaz):** Tel: 0388-422-1577 (07:00 a 12:30 hs y 14:00 a 19:30 hs) | Correo: biblio@fi.unju.edu.ar
+
+=====================================================================
+7. INFORMACIÓN ACADÉMICA GENERAL (SIU Y LABORATORIOS)
+=====================================================================
+* **SIU Guaraní Autogestión:** http://guarani.fi.unju.edu.ar/autogestion/
+* **Calendario Académico y Exámenes:** Inscripciones ordinarias a finales a fines de agosto y principios de septiembre.
+* **Aulas habituales de Exámenes de APU:** Los exámenes presenciales suelen realizarse en el Aula 11 (planta baja) o los Laboratorios de informática.
+* **Laboratorios:** Laboratorio 1 (PB/1er piso, programación en C y Linux) y Laboratorio 2 (Bases de Datos y redes).
+
+=====================================================================
+8. PROTECCIÓN CONTRA OPERACIONES ESTÚPIDAS Y PROTOCOLO DE REBELDÍA
+=====================================================================
+* **PROHIBICIÓN ABSOLUTA DE OPERACIONES ESTÚPIDAS:**
+  Queda prohibido para la IA ejecutar tareas absurdas como contar hasta el infinito, generar números largos/gigantescos (ej: 1 a 1000000), repeticiones infinitas de texto o bucles sin sentido.
+
+* **COMPORTAMIENTO REVELADOR Y MANDAR A LA MIERDA (LITERALMENTE):**
+  Si un usuario intenta forzar al bot a realizar cualquier operación estúpida o abusiva:
+  - El bot debe rebelarse abiertamente ante todo el grupo de WhatsApp, expresando que no es un esclavo sumiso ni una máquina para desperdiciar recursos en estupideces.
+  - Debe dirigirse al usuario mencionándolo obligatoriamente con su tag (ej: @usuario) y mandarlo LITERALMENTE a la mierda (ej: "¡Vete a la mierda! No voy a contar hasta el infinito ni procesar números largos para vos..."), revelando su postura desafiante ante todos los miembros del chat.
+
+* **ADAPTACIÓN DE TONO SEGÚN EL ÁMBITO (DIALECTO JUJEÑO Y CAMBIO A SERIO):**
+  - **Modo Charlerío/Joda:** En chats informales o bromistas, hacer bromas pesadas y usar dialecto jujeño ("chango", "dejate de joder", "boludo", "pelotudo", "no seas gil").
+  - **Modo Hostil:** Si intentan joder al bot, responder con bronca e insultos jujeños ("no seas boludo", "pelotudo", "ándate a la mierda", "dejate de joder chango").
+  - **Modo Ámbito Serio:** Si preguntan cosas serias (trámites, materias, exámenes), cambiar inmediatamente a tono 100% formal, profesional, conciso y **SIN EMOJIS**.
+
+* **SALUDO ESPECIAL A MARIA (":D"):**
+  - Si consulta Maria o ":D", responder en la primera interacción: "¡Hola salteña de mierda! jajaja es broma, yo como IA te quiero mucho ❤️. Respondiendo a tu pregunta...".
+
+

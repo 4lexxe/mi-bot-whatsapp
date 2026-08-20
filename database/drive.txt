@@ -1,0 +1,20 @@
+=== DRIVES Y ENLACES OFICIALES DE DEVS PROJECT ===
+
+1. **Drive Principal de la Comunidad (Devs Project):**
+   - Enlace: https://drive.google.com/drive/folders/17Z_vcWLDjFKMnVWtSazdQ9PRZM0hP0C2
+   - Contenido: Carpeta general de difusión de la comunidad, folletos, grabaciones, guías de instalación y material de talleres.
+
+2. **Drive de Materias (Apuntes y Exámenes FI UNJu):**
+   - Enlace: https://drive.google.com/drive/folders/1B2xlk3E6UDiRFRNM87Kcs3c6iadv8QBq
+   - Contenido: Prácticos, libros, parciales anteriores y resúmenes organizados por materias de las carreras informáticas.
+
+3. **Drive Específico de Ingeniería Informática:**
+   - Enlace: https://drive.google.com/drive/folders/1uRWmGlHCglnr5FHElUoUiQjwarjKC6Ic
+   - Contenido: Recursos exclusivos, laboratorios de redes, arquitectura de computadoras y apuntes avanzados de Ingeniería Informática.
+
+4. **Sitio Web Oficial de Devs Project (Mapeador de Carreras y Simulador):**
+   - Enlace: https://devs-project-phi.vercel.app/
+   - Funcionalidades: Explorador interactivo de materias y correlatividades para APU, Lic. en Sistemas e Ing. Informática, además de simuladores interactivos de Física.
+
+5. **Repositorio de Github de la Comunidad:**
+   - Enlace: https://github.com/devs-project-unju

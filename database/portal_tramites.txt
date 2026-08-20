@@ -1,0 +1,42 @@
+=== PORTAL DE TRÁMITES FI UNJU (ALUMNOS Y DOCENTES) ===
+
+El Portal de Trámites permite realizar gestiones administrativas digitales. Los requisitos son contar con la Cuenta GSuite Institucional e iniciar sesión.
+
+---
+=== SECCIÓN ALUMNOS (TRÁMITES DISPONIBLES) ===
+
+1. **CAMBIO DE CARRERA:**
+   - Detalle: Permite cambiarse de carrera. Cancela matrícula en carrera de origen y da el alta en la carrera destino.
+   - Formulario de Solicitud: https://docs.google.com/forms/d/e/1FAIpQLSca4GqxotOfdpebw_i5BMRXJUJYOY6HPfgeYOdasztExnOBvw/viewform?usp=sf_link
+
+2. **CAMBIO DE PLAN:**
+   - Detalle: Cambiarse al plan nuevo de su carrera. Se recomienda verificar previamente que todas las regularidades/promociones estén registradas en el SIU.
+   - Formulario de Solicitud: https://docs.google.com/forms/d/e/1FAIpQLSfXtOz1cBTbMjTlofdln7nIgg0VA1tyjKidxgdeq_M5LVqzNQ/viewform?usp=sf_link
+
+3. **CAMBIO DE SEDE o EXTENSIÓN ÁULICA:**
+   - Detalle: Solicitar cambio en la sede geográfica donde se cursa.
+   - Formulario de Solicitud: https://docs.google.com/forms/d/e/1FAIpQLSfvrVUkhPHyjgwGWUpusi83aqwiopTHPvpjlUhDvl4esMBRzw/viewform?usp=sf_link
+
+4. **INSCRIPCIÓN ALUMNO ADSCRIPTO (Res. CAFI 034/17):**
+   - Detalle: Para estudiantes avanzados que aprueban materias y realizan adscripciones en cátedras.
+   - Formulario de Solicitud: https://docs.google.com/forms/d/e/1FAIpQLScByQXf-1A1fYjjXcez3Z4ZsTGCVBY_lGhjfG45evAF0_Hl6A/viewform?usp=sf_link
+
+5. **INSCRIPCIÓN FUERA DE TÉRMINO:**
+   - Detalle: Inscripción a cursar una asignatura fuera de los plazos ordinarios con justificación (evaluada previamente).
+   - Formulario de Solicitud: https://docs.google.com/forms/d/e/1FAIpQLSd6o52pkKPANFg_GJbOYAZHL9rK-LnD7ewq0hj0a9_0A2m2jg/viewform?usp=sf_link
+
+6. **INSCRIPCIÓN REVÁLIDA (Res. CAFI 261/22):**
+   - Detalle: Permite rendir una evaluación especial para otorgar un año más de validez a la regularidad vencida.
+   - Formulario de Solicitud: https://docs.google.com/forms/d/e/1FAIpQLSf-loLJuiYCFMm9ZbcTvXzC7Ve8G1BetkKBWb2mxv_SEAjVdw/viewform?usp=sf_link
+
+7. **JUSTIFICAR INASISTENCIA A EXAMEN:**
+   - Detalle: Justificación por motivos de fuerza mayor al ausentarse a un examen final inscrito.
+   - Formulario de Solicitud: https://docs.google.com/forms/d/e/1FAIpQLScc9uVqjJk5qh599PAjSorOTQ87U9NeyNOYG_6gUEpc1-H2og/viewform?usp=sf_link
+
+8. **SOLICITA MESA ESPECIAL:**
+   - Detalle: Solicitar fecha de examen final en épocas donde no hay turnos ordinarios (para estudiantes que adeudan pocas materias).
+   - Formulario de Solicitud: https://docs.google.com/forms/d/e/1FAIpQLSdsDYdGqsrvE6Uc_vU5GqX6Gl2IRpL2NvmQPlu6rbugJ2RSCQ/viewform?usp=sf_link
+
+9. **RENUNCIA A LA REGULARIDAD:**
+   - Detalle: Trámite para dar de baja la regularidad obtenida en una asignatura.
+   - Formulario de Solicitud: https://docs.google.com/forms/d/e/1FAIpQLSdKeS-mz2UdmzfGm7Rt0018cGki0msXxan9G0eWXOJXewVRNA/viewform?usp=sf_link
