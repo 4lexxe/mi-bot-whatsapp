@@ -14,6 +14,12 @@ const port = process.env.PORT || 3000;
 http.createServer((req, res) => {
   res.writeHead(200, { 'Content-Type': 'text/plain; charset=utf-8' });
   res.end(`🤖 Bot de WhatsApp + ${aiProvider.toUpperCase()} activo y respondiendo.`);
+}).on('error', (err) => {
+  if (err.code === 'EADDRINUSE') {
+    console.warn(`⚠️ Puerto ${port} en uso, el bot continuará su ejecución de todos modos.`);
+  } else {
+    console.warn('⚠️ Error en servidor HTTP:', err.message);
+  }
 }).listen(port, () => {
   console.log(`🌐 Servidor HTTP activo en puerto ${port} (Render Ready).`);
 });
