@@ -3,3 +3,7 @@ node_modules/
 .wwebjs_cache/
 .ds_store
 *.log
+**/Cache/**
+**/Cache_Data/**
+**/GPUCache/**
+**/Code Cache/**
