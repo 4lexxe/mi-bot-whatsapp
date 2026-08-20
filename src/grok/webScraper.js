@@ -41,6 +41,13 @@ export async function initGrokScraper() {
   console.log(`🚀 [Grok Scraper]: Iniciando navegador Chromium para Grok (Headless: ${isHeadless})...`);
 
   try {
+    const lockFile = path.join(userDataDir, 'SingletonLock');
+    const socketFile = path.join(userDataDir, 'SingletonSocket');
+    const cookieFile = path.join(userDataDir, 'SingletonCookie');
+    try { fs.rmSync(lockFile, { force: true }); } catch (e) {}
+    try { fs.rmSync(socketFile, { force: true }); } catch (e) {}
+    try { fs.rmSync(cookieFile, { force: true }); } catch (e) {}
+
     if (browserContext) {
       try { await browserContext.close(); } catch (e) {}
     }

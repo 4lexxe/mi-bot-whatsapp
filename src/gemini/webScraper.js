@@ -42,6 +42,13 @@ export async function initGeminiScraper() {
   console.log(`🌐 [Gemini Scraper]: Iniciando navegador Chromium (Modo Invisible / Fuera de Pantalla: ${hideWindow})...`);
 
   try {
+    const lockFile = path.join(userDataDir, 'SingletonLock');
+    const socketFile = path.join(userDataDir, 'SingletonSocket');
+    const cookieFile = path.join(userDataDir, 'SingletonCookie');
+    try { fs.rmSync(lockFile, { force: true }); } catch (e) {}
+    try { fs.rmSync(socketFile, { force: true }); } catch (e) {}
+    try { fs.rmSync(cookieFile, { force: true }); } catch (e) {}
+
     if (browserContext) {
       try { await browserContext.close(); } catch (e) {}
     }
