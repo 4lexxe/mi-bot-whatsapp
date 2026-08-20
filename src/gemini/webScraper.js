@@ -93,7 +93,7 @@ export async function initGeminiScraper() {
     }
 
     browserContext = await chromium.launchPersistentContext(userDataDir, {
-      headless: false, // Evasión de bloqueos de Google ejecutando motor gráfico completo fuera de pantalla
+      headless: hideWindow,
       args: launchArgs,
       userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
       viewport: { width: 1280, height: 800 }
