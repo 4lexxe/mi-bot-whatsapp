@@ -3,6 +3,8 @@ node_modules/
 .wwebjs_cache/
 .ds_store
 *.log
+.gemini_chrome_data/
+.grok_chrome_data/
 **/Cache/**
 **/Cache_Data/**
 **/GPUCache/**
